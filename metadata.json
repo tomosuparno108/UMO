@@ -1,0 +1,7 @@
+{
+  "name": "USB Mirror OBS",
+  "description": "Ultra-low latency USB screen and audio mirroring for PC browser and OBS Studio with anti-lag and drop frame prevention",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
